@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200&display=swap');
+body{
+    background-image: url(img/fond.png);
+    background-size: cover;
+}
+
+
+*{
+    font-family: nosifer;
+    
+}
+
+@font-face {
+    font-family: nosifer;
+    src: url(font/Oswald-Medium.ttf);
+}
+
+.container{
+    margin:auto;
+    width: 750px;
+}
+.menuDetail {
+    display:inline;
+    padding:30px;
+    font-size: 1.3em;
+}
+
+.menu {
+    background-color: #b8cb21;
+    text-align: right;
+    margin:0;
+    height:100px;
+    padding-top:70px;
+    margin-top:-130px;
+}
+
+section{
+    background-color:white;
+    padding: 20px;
+}
+article {
+    background-color:white;
+    padding:0px 20px 20px 20px;
+}
+
+.titleAndIcon{
+    font-size: 25px;
+}
+.firstP,.thirdP {
+
+    margin-left: 223px;
+    margin-top:-8px;
+    color:#4d87b7;
+}
+
+.SecondP{
+    margin-top:8px;
+    text-indent:22px;
+    color:#4d87b7;
+}
+.forthP{
+    margin-top:8px;
+    color:#4d87b7;
+}
+
+.fifthP {
+    color:#4d87b7;
+}
+
+.who{
+    
+    float:left
+}
+
+.imgwho{
+    width:200px;
+    
+}
+
+.titleAndIcon {
+    padding-top:40px;
+    padding-bottom:20px;
+    color:#d4e827;
+}
+
+.btn1{
+    text-align:right
+}
+
+.btn1 button{
+    padding:15px;
+    background-color:#b8cb21;
+    color:white;
+    border:0
+}
+.ListDetail {
+    color:#4d87b7;
+}
+.academy {
+    margin:10px 0px;
+    text-align: center;
+}
+
+.imgacademy{
+    width:50px
+}
+
+.lasttext1{
+    text-align:center
+}
+
+.lasttext2{
+    text-align:center
+}
+
+u {
+    color:#a366ff;
+}
