@@ -50,23 +50,18 @@ article {
 
     margin-left: 223px;
     margin-top:-8px;
-    color:#4d87b7;
+    
 }
 
 .SecondP{
     margin-top:8px;
     text-indent:22px;
-    color:#4d87b7;
+    
 }
 .forthP{
     margin-top:8px;
-    color:#4d87b7;
+    
 }
-
-.fifthP {
-    color:#4d87b7;
-}
-
 .who{
     
     float:left
@@ -93,9 +88,6 @@ article {
     color:white;
     border:0
 }
-.ListDetail {
-    color:#4d87b7;
-}
 .academy {
     margin:10px 0px;
     text-align: center;
@@ -105,11 +97,7 @@ article {
     width:50px
 }
 
-.lasttext1{
-    text-align:center
-}
-
-.lasttext2{
+.lasttext1 ,.lasttext2{
     text-align:center
 }
 
